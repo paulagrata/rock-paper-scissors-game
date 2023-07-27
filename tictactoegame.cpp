@@ -79,3 +79,14 @@ int main() {
 
     return 0;
 }
+
+      /* 
+    key:
+    lizard > spock
+    spock > scissors
+    scissors > lizard
+    lizard > paper
+    paper > spock
+    spock > rock
+    rock > lizard
+    */
