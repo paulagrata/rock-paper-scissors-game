@@ -33,7 +33,7 @@ int main() {
       
         // choices
         std::string choices[] = { "rock", "paper", "scissors", "lizard", "spock" };
-        std::cout << "You choose: " <<  choices[userchoice - 1] << "\n"; 
+        std::cout << "you choose: " <<  choices[userchoice - 1] << "\n"; 
 
         int compchoicename = std::rand() % 5;
         std::string computername = choices[compchoicename];
