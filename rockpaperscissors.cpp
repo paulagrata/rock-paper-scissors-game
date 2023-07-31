@@ -13,6 +13,8 @@ int main() {
     std::cout << "4: lizard \n";
     std::cout << "5: spock \n\n";
 
+    std::cout << "shoot! ";
+
     int rock = 1;
     int paper = 2;
     int scissors = 3;
